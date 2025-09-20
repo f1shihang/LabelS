@@ -1,0 +1,1724 @@
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_6 7 9_1_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 7 9_1_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 10_57_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_59_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 10_59_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_7 10_2_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_7_2_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_3 6 7_3_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_0_1_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3_3_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4_59_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 7 9_1_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_10 12_2_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_3_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_0_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 6 10_57_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_0_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_56_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_0_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3_2_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_5 6 10_57_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_10_1_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 10_59_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_4 6 10_3_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_0_6_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6 9_3_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_2_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_4 10_57_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_12_2_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_2_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4_59_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_2_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_5 9_56_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 10_59_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_4 7 10_0_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_2_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_10 11_57_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 9_59_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 5 8_57_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_0_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3 7 10_57_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_0_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\15_0_2_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_4 7_0_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_0_1_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_3 6 9_0_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 5 7 11_57_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_0_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_4 6 10_3_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_59_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_1_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 10_57_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 9_56_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_4 10_57_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 9_59_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_5 6 10_57_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3 7 10_56_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 6 9_3_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_9_56_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_4 7_0_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_12_2_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_3 10 11_57_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_3 6 10_56_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 7 9_1_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_10_56_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_4 10_57_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_0_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_5 9 11_56_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_0_1_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_56_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_0_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_1_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_9_56_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_0_1_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_7 9_1_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_10 11_57_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_59_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_5 10_56_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_9_56_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10 12_1_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_0_1_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 11_57_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 6 10_57_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_56_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_6 7 9_3_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 7 9_1_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_6 7 10_57_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_2_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_0_1_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_1_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_10 12_2_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_9_56_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_56_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 6 10_57_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_7_2_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_0_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_59_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_10_56_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_0_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_5_56_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_2_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 7 10_59_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_10 11_57_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_3 10 11_57_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\15_0_2_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 6 10_59_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10 12_2_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_2_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_5_56_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_9_56_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 10_56_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_56_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_0_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_10_1_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_10 11_57_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_1_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10 12_1_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_4 10_57_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_4 10_57_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 5 8_57_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6_0_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_0_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_10_59_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 9_56_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_5 9_56_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10 12_1_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10 12_2_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_4 7 10_0_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_6 7 10_57_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3_3_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_6 7 10_59_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_5 6 10_57_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6 9_3_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_7 9_1_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 10_59_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_7_2_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_1_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_2_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 9_59_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 9_59_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_7_2_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_5 9_56_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 7 9_1_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_3 8 11_57_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_4 6 10_3_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_0_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_10_56_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_3_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4 5 10_57_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_0_3_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_7 10_2_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_5 9_56_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_2_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4_59_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 10_57_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_5 9 11_56_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_5_56_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_1_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_7_2_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_4 7_0_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 7 10_59_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_1_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_0_6_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_2_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6_0_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 10_56_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 9_59_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10 12_1_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_9 12_2_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_0_6_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_0_6_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_5 6 7 10_57_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 10_59_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_7 9_3_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_10_59_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_9_56_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_59_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10 12_1_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_0_1_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 7 10_59_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_4 7 10_0_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_5 6 7 10_57_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_4 7 10_0_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_1_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10_3_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_0_1_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 10_59_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 5 7 11_57_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 9_59_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_7 10_2_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 11_57_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_4 7_0_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_5 6 10_57_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_10_56_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_2_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_6 7 9_3_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_3 8 11_57_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_59_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_9_56_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_0_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_12_2_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_3_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10_3_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 10_57_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 10_56_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_59_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 10_59_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_6_1_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3_3_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 10_57_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\15_0_2_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_5 9 11_56_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 5 8_57_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 9_3_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_0_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 10_56_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_10_1_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_2_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_4 10_0_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_5 10_56_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_0_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_56_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_2_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_4 7_0_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_10_59_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_6 7 10_57_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_5_56_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3 7 10_57_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 10_59_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_0_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_3_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_2_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_5 6 7 10_57_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 10_57_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_5 10_56_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_0_3_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_7_2_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_5 6 7 10_57_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_0_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 7 9_1_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_5 6 7 10_57_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_7_2_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 9_3_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_5 6 10_57_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_0_1_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 10_57_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_6_1_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3 7 10_56_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 6 10_59_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_5 6 7 10_57_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 6 10_59_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 9_56_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_0_1_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 10_56_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_5 6 10_57_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_7_2_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_59_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 6 9_3_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_59_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 7 9_1_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_0_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 7 10_59_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4 5 10_57_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6_0_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 10_56_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_0_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 7_0_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_56_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_4 10_0_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_6 7 10_59_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10_3_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_4 7 10_0_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_0_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_10 11_57_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_7_2_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 10_59_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 7 9_1_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_0_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_9 12_2_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\15_0_2_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_5 9 11_56_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_5_56_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_10 12_2_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 10_59_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10 12_1_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6_0_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_9_56_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 5 7 11_57_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_2_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_2_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3 7 10_57_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_4 7 10_0_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 5 7 11_57_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_10_1_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_10_56_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_59_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_59_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_10 11_57_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_56_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_3 8 11_57_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_4 7 10_0_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6 9_3_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 6 9_3_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_3 6 10_56_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_2_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_3 6 9_0_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 5 8_57_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_5 9 11_56_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 10_2_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_0_6_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_0_3_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_0_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4 5 10_57_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_7 9_3_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_3 6 9_0_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10 12_1_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_0_1_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_0_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_6_1_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_7_2_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_7_2_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4_59_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_2_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_3 6 10_56_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_3_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 9_56_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_9 12_2_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_2_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_7_2_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_1_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_6 7 10_57_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4_59_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3 7 10_57_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_7 10_2_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 11_57_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_4 10_0_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_56_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_7 9_1_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_1_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3 7 10_56_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6 9_3_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 6 10_57_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 9_59_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 9_59_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_7 9_3_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_5 9_56_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_10_59_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_7 9_3_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_7 9_3_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_0_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_5 10_56_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_5 6 7 10_57_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10_3_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_7 10_2_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_6 7 9_1_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3_3_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_1_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_3_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 9_3_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_3 8 11_57_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 10_2_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_6 7 10_57_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_10 12_2_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 10_59_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 10_56_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_5 6 10_57_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_59_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_10_59_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10 12_1_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_3 8 11_57_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_3_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_3_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_3 6 10_56_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_3 10 11_57_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_0_59_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 9_56_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_9_56_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_4 6 10_3_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_3 6 7_3_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 10_59_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_0_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_0_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_9_56_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3 7 10_56_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_2_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 10_59_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 10_59_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_4 7 10_0_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_0_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_0_1_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_0_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_10_56_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_10_1_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_9_56_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 10_56_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_0_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 9_59_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_0_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_0_1_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 10_56_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_0_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_2_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_0_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 6 10_57_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 10_59_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_0_6_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_7 10_2_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_3_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 5 7 11_57_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 10_57_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_4 10_0_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_2_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_0_1_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_3 6 7_3_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3_2_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 9_56_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_6 7 9_3_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_6_1_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_3 6 10_56_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_5 6 10_57_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_6 7 10_59_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_10_1_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 9_3_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_2_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_10_59_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4 5 10_57_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 6 10_57_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 6 9_3_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_1_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_6 7 10_59_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 11_57_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_7_2_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_3 10 11_57_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 10_2_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3_2_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3 7 10_56_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_10_1_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 11_57_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 9_56_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 9_59_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_5 6 7 10_57_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 9_59_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_59_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_59_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_2_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 7_0_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_2_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_0_1_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3_2_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_6 7 9_1_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_7_2_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 10_56_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_3_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_4 7 10_0_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_0_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_12_2_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_5 9_56_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_3_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3_3_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_7 10_2_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_0_6_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_4 6 10_3_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 10_57_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6 9_3_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 10_56_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_2_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_10_1_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3 7 10_57_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_2_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_3_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_2_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_1_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_2_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_2_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 9_3_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_10_56_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_2_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_5 10_56_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 10_57_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 10_56_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_0_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_4 6 10_3_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4_59_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_1_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_0_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 11_57_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 9_3_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_10 12_2_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 10_57_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_59_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_1_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_0_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_9_56_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 7_0_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_4 7 10_0_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_5_56_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_3 10 11_57_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 9_59_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_4 10_0_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 10_59_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_59_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_5 9_56_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_56_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\15_0_2_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_7_2_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_0_6_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_59_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_10_1_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3_2_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 10_59_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_9_56_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_0_1_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_0_1_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_59_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_4 10_57_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 10_2_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_7 10_2_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3 7 10_57_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_10_56_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_0_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 5 7 11_57_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 10_56_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_1_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_0_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_2_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 10_59_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_4 6 10_3_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_59_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_9_56_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_2_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_7_2_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_0_1_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_59_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_0_6_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6_0_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_3 8 11_57_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_7_2_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_56_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_0_1_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_10_56_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_4 7_0_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 10_57_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 5 7 11_57_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 5 8_57_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_2_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_2_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 6 9_3_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_0_1_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_6 7 10_57_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_2_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_0_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_5 9 11_56_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_6 7 9_1_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_5_56_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_7 10_2_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_59_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_4 10_0_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 11_57_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_0_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 9_59_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_3 10 11_57_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 10_2_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_10 11_57_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_59_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_3 6 7_3_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_1_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6 9_3_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_5 6 10_57_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_59_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_9_56_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_3 6 10_56_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_3 10 11_57_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_10 12_2_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 10_56_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_3_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 6 10_57_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_4 6 10_3_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_56_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 9_59_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 10_56_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_4 7 10_0_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_5 9_56_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 7 9_1_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10_3_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_9_56_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_2_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 6 10_59_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_59_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\15_0_2_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6_0_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_6 7 9_3_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_0_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_4 7 10_0_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4 5 10_57_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10 12_2_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_7 10_2_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 5 7 11_57_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_59_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3 7 10_57_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_7_2_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 10_56_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 10_57_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_9 12_2_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_0_59_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_2_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_0_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_7 10_2_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3_3_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_0_6_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_59_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4 5 10_57_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_56_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_3 10 11_57_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_2_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_3 10 11_57_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_5 6 7 10_57_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_56_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_10_59_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4_59_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_6_1_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_6 7 10_59_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_0_1_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6 9_3_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 10_59_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 10_57_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_3_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_5_56_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\15_0_2_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_2_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4_59_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_6 7 9_3_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_5 6 10_57_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_56_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3_2_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_7 10_2_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 10_57_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_2_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_0_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_0_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_0_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 6 9_3_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_12_2_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_1_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4_59_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 5 8_57_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_7_2_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 5 8_57_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_3 10 11_57_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_9 12_2_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 6 10_59_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10 12_1_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_4 7 10_0_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_10_1_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 7 9_1_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 5 8_57_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_7 10_2_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 6 10_59_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_56_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_4 10_57_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_2_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_5 6 10_57_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_2_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_0_3_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_3 10 11_57_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 5 8_57_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4_59_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_0_6_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10 12_2_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_5_56_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3 7 10_56_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_0_59_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_6 7 10_57_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_3 10 11_57_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 11_57_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 9_59_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_4 6 10_3_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 10_59_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 6 10_57_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4 5 10_57_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10_3_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 6 9_3_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_0_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 10_57_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_0_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_0_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_10_59_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_10 12_2_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 10_57_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_59_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_3 8 11_57_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_7 9_1_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_5 6 10_57_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_7_2_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_5 9_56_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 10_57_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_7 9_1_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 6 10_59_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 7_0_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_3 8 11_57_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_0_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_0_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_9 12_2_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10_3_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_0_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3_2_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_3 8 11_57_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_9_56_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 7_0_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_0_3_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_2_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10 12_2_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10_3_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 7 9_1_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_0_3_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_59_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 10_2_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3_3_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3_3_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 10_59_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6_0_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_0_3_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_56_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_12_2_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10 12_1_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 5 7 11_57_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_6_1_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_5 10_56_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\15_0_2_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_59_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_3_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_5 10_56_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_3 6 7_3_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_2_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_59_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_0_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_4 10_0_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_10 11_57_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 10_57_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_0_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_1_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 5 8_57_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_0_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4 5 10_57_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10 12_1_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_3 10 11_57_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 10_56_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 10_56_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_1_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_0_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 9_59_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_6 7 9_1_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 11_57_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_0_1_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_2_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_2_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4_59_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_10_56_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_9_56_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_3 10 11_57_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_4 10_0_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_1_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_4 10_57_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_59_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_1_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_6 7 10_57_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 10_56_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_7 10_2_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_4 7 10_0_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_0_3_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6 9_3_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_59_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_6_1_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 10_57_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4 5 10_57_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_3_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3 7 10_56_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_3_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 9_56_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6 9_3_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\15_0_2_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_0_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_6 7 10_57_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_3_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_4 6 10_3_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_0_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_10 12_2_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_4 10_0_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_0_1_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_6 7 9_3_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_9_56_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_56_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 10_2_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_4 10_57_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_2_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 9_59_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_7 9_1_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6 9_3_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 5 7 11_57_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 7_0_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_0_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_10 12_2_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_0_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_6 7 10_59_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_5 9 11_56_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_2_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 6 10_57_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_59_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 9_3_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 5 8_57_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 6 9_3_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10 12_1_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_0_1_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_6 7 10_59_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_9 12_2_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_3 6 7_3_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_3 6 9_0_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_0_6_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_0_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 6 10_57_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 10_59_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_3 6 9_0_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_5 6 10_57_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_3_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_1_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6 9_3_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_1_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_3_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 7 10_59_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_2_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 7 9_1_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_5 9 11_56_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_0_1_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_7 9_3_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 9_3_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_7 10_2_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_2_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_4 6 10_3_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 9_3_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_59_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_59_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_3 6 7_3_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 10_57_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 9_59_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_0_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_12_2_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_0_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_6 7 9_3_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4 5 10_57_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 10_2_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_10 11_57_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_7 9_1_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_6 7 10_59_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_3 8 11_57_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_7 9_1_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_9_56_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 6 10_59_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_10_56_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_0_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 10_59_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10 12_1_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_10_59_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_2_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_0_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_12_2_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_12_2_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_3 6 9_0_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_7_2_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_0_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_3_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_0_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_0_3_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_0_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_3_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_0_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_4 10_57_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_3 8 11_57_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\15_0_2_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_12_2_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_59_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 10_59_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3_2_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_5 6 7 10_57_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_2_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 10_56_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_10_1_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_59_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_59_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_0_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 10_2_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_0_3_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_10 11_57_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_59_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_1_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_6 7 9_3_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_3 6 9_0_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 6 10_59_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_59_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_3 6 10_56_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_6 7 10_57_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 5 8_57_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10 12_2_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_4 6 10_3_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_2_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 10_57_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_10 11_57_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_0_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_5 9_56_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_4 10_0_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4 5 10_57_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_3 6 10_56_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_3 10 11_57_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_3 6 7_3_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_3 6 7_3_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6 9_3_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_0_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_59_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_9 12_2_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_3 10 11_57_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_3 6 10_56_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_2_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 6 9_3_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_6 7 10_59_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 7 10_59_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 10_2_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_0_3_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_6_1_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_2_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_59_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 10_2_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_59_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_6_1_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4 5 10_57_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 9_56_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_6 7 9_3_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_7_2_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 6 10_59_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_59_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_9_56_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_3 8 11_57_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_59_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4_59_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_2_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4 5 10_57_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_4 7_0_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_1_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_6 7 10_59_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_7 10_2_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_1_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_5 6 7 10_57_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 5 7 11_57_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3 7 10_56_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_4 7 10_0_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_6 7 10_59_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_59_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_7 9_1_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_3 6 10_56_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_10_59_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_6 7 10_59_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_59_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_59_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_10_1_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 5 8_57_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_7_2_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_0_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 6 10_59_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_7 9_1_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_3 8 11_57_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 9_59_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_6 7 9_3_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_56_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_2_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 6 9_3_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_5 6 10_57_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 10_59_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_4 10_57_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_4 7_0_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_4 7_0_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10_3_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_6 7 9_3_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3 7 10_56_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_4 10_0_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_59_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_59_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 5 8_57_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_3_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_3 6 9_0_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_5 10_56_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_59_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_10 12_2_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_6_1_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 9_56_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 9_3_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_59_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_59_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6_0_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 10_56_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 10_56_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_59_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6_0_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_56_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_5_56_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_3 10 11_57_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_4 7_0_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_3 6 7_3_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3 7 10_56_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_56_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 10_57_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_3 8 11_57_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_9_56_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_0_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_5 6 7 10_57_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_0_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 9_56_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_59_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_7 10_2_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_3 8 11_57_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_7_2_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_10_56_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 11_57_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 5 7 11_57_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_3 6 9_0_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_10 11_57_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_59_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_4 7 10_0_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_2_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_0_1_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_5_56_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_10 11_57_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10 12_2_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3 7 10_56_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_59_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_4 6 10_3_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_10_1_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3_2_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_0_1_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_0_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 10_56_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_7 9_3_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_59_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_0_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_9 12_2_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4 5 10_57_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_0_1_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_0_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_59_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_7 10_2_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_59_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_0_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_7 10_2_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_12_2_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_3_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_12_2_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_3 6 10_56_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_1_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_2_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_6_1_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_12_2_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_10_56_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_9_56_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 10_57_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_6 7 9_3_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_3 8 11_57_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_59_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6 9_3_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 10_59_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 6 10_57_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 6 10_59_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_6_1_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_0_6_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6_0_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_5 10_56_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_0_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_3 8 11_57_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_5 9_56_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_0_1_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10 12_1_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 9_56_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 7 9_1_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4 5 10_57_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_6 7 9_3_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_3 6 9_0_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 10_56_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_3 6 10_56_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_5 6 10_57_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_4 7_0_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_0_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4_59_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_2_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_56_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 5 7 11_57_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_7 10_2_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 10_59_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_7 10_2_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_3 6 10_56_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_10_56_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_9_56_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 10_59_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_3 6 10_56_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_1_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 6 10_57_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 10_57_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6_0_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_7_2_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_0_6_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_7 9_3_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 5 7 11_57_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_4 10_0_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_0_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3_2_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 7_0_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_56_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 10_56_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_0_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4_59_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_3 6 10_56_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_59_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_7 9_3_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_0_1_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_2_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 5 8_57_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 6 10_57_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_0_59_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_6 7 10_57_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4 5 10_57_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_2_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_5_56_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_1_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_2_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_10_1_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_7_2_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_1_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 6 10_57_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_59_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_10 12_2_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_9_56_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_6 7 9_1_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_7 10_2_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_0_1_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 6 10_57_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_4 6 10_3_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3 7 10_57_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_7 10_2_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 7 9_1_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_5 9 11_56_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_0_1_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_3 6 9_0_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_5 9_56_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10 12_2_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_9_56_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_7_2_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_5 6 7 10_57_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_3 10 11_57_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_2_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 10_57_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_5 9 11_56_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10 12_2_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_6 7 9_1_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_5 6 10_57_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_1_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 6 9_3_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_59_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 9_3_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4_59_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 10_57_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_7 9_3_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_56_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_59_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_7 10_2_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_7 9_3_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3_3_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_0_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_0_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_5 6 7 10_57_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_56_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_4 10_57_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4 5 10_57_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_0_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_1_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_0_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10 12_1_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_0_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_0_1_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_6 7 9_3_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_6 7 9_1_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_9_56_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 5 7 11_57_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_0_1_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 9_3_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_0_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_10_1_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_3 6 10_56_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_7 9_3_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 7 10_59_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_9_56_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_10_56_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_6 7 10_59_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 7_0_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_10 12_2_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_5 10_56_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 9_59_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_5_56_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_5 10_56_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_0_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_5 9 11_56_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_0_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_4 6 10_3_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3_3_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10_3_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_1_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 9_59_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_0_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_3_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 7_0_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3 7 10_57_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_59_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10 12_2_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_9_56_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 7 10_59_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_6 7 9_3_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_7 10_2_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10 12_1_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_10 12_2_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 9_59_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_0_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_2_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6 9_3_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_4 7 10_0_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_56_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 9_3_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_0_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_59_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 9_56_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_10_59_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_0_1_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_56_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 10_56_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_1_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_0_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_0_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_0_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 5 8_57_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_9 12_2_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 6 10_59_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_59_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_59_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_59_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_10_1_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_0_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_7_2_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 10_59_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4 5 10_57_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_59_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 10_56_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_7 9_1_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_10_1_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_59_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_2_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 5 8_57_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_0_6_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 9_59_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_7 9_1_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_5 10_56_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 7 10_59_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_3_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_1_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10_3_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 5 8_57_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 10_59_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_5 6 7 10_57_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_6 7 9_1_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_10 11_57_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_59_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_0_3_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_0_6_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_4 10_57_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 10_59_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_4 10_57_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3 7 10_56_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_0_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 9_59_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_7 9_3_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_4 7 10_0_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3 7 10_57_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_5_56_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_0_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_7 10_2_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 10_59_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10 12_1_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10 12_2_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_4 7 10_0_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_3_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 6 10_57_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_12_2_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_3 6 9_0_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6 9_3_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_0_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 6 9_3_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_56_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_0_3_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_0_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_0_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_7 10_2_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_4 10_0_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_2_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 10_56_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_4 10_0_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 5 8_57_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_9_56_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_0_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_10_1_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_9 12_2_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4_59_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_7_2_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 11_57_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_0_59_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_0_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 6 10_57_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_6 7 10_59_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_0_3_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_0_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_3_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10 12_1_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4_59_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_0_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 9_56_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_1_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_7 9_3_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 5 7 11_57_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 7 10_59_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_9 12_2_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_59_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_10_59_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_1_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 11_57_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_3_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_3 6 10_56_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10_3_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_6 7 10_59_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_5 9_56_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_0_6_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3 7 10_57_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_59_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_4 10_0_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 9_59_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10 12_2_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10_3_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3_2_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_0_3_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_6_1_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3 7 10_57_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 9_59_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 11_57_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_0_1_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3_2_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10 12_2_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_5_56_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_0_59_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3_3_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 9_59_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 10_2_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 7_0_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6_0_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_7 10_2_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_6_1_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6_0_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_0_1_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 9_59_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 6 9_3_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_2_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3_2_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_10_59_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_56_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_9_56_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_4 7_0_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10 12_2_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_5 10_56_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_9_56_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 7 9_1_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_9 12_2_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_9 12_2_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\15_0_2_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_1_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_2_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_5 9 11_56_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 10_59_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 9_3_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_10_59_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 9_56_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_0_1_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_7_2_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_3 6 9_0_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_0_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_59_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 6 10_59_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_5 9 11_56_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_10 12_2_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 9_56_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_0_6_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_3 6 7_3_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_6 7 10_57_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_10_59_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_3_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 10_56_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_5 9 11_56_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_0_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 7_0_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_7 10_2_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_3 6 9_0_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 10_56_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_7 9_3_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_4 10_57_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\15_0_2_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_5 10_56_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4 5 10_57_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_7 10_2_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 10_57_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_0_1_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_9 12_2_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_0_59_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_4 10_0_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_4 10_57_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_1_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_0_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 10_2_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_4 7 10_0_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_3 8 11_57_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 5 7 11_57_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_0_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_59_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 6 9_3_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_9 12_2_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_0_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_59_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_0_3_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3 7 10_57_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_7 9_1_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_0_59_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 10_56_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 11_57_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_0_1_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 6 10_59_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_5 6 7 10_57_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 9_59_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_10_59_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_6_1_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_2_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_2_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 7 10_59_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6_0_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_10 12_2_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_7 9_3_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_5 9 11_56_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_9_56_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_1_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_0_59_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_7_2_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 10_2_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_6 7 10_57_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_4 10_0_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_4 10_57_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 6 10_59_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_9 12_2_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 7 10_59_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_10_56_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_0_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_0_1_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6_0_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_3 6 7_3_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_7_2_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 10_57_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6_0_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_0_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_3_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_9 12_2_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 10_2_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_4 7_0_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 11_57_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3_3_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4_59_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_0_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_7 9_3_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 10_57_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 6 10_57_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_0_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_2_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_56_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_56_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 7 10_59_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_0_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_1_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 6 10_57_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_0_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3_2_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_6_1_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_6 7 10_59_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_3 6 7_3_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3 7 10_57_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_2_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_1_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_10 11_57_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_0_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_10_59_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_4 10_57_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_6 7 9_3_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_1_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 6 10_59_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_1_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_6 7 9_1_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_3_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_3 6 9_0_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_5 6 7 10_57_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_10 11_57_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_59_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_1_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 10_56_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_3 8 11_57_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_1_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_1_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 10_59_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_10 12_2_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_9_56_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 5 7 11_57_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_2_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_4 6 10_3_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_2_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_59_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_10_59_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 10_2_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 10_2_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_0_59_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_7_2_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_10 12_2_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_6 7 10_57_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10_3_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 10_2_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_56_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 7_0_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_0_1_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\15_0_2_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_7 10_2_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_1_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 7 9_1_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_5 6 7 10_57_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_2_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_5 9 11_56_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10 12_2_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 5 8_57_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_5 9_56_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_59_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_2_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\15_0_2_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_0_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10_3_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_0_1_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 11_57_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_2_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 10_59_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_0_1_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_56_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6_0_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_7 9_1_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10_3_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_59_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_4 10_0_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_1_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6 9_3_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_5 10_56_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_59_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_9 12_2_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_4 10_57_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_1_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_3 8 11_57_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_0_3_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 9_3_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_7 9_1_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 9_59_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_0_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_6_1_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 10_59_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 10_56_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6_0_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 11_57_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3_3_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 6 9_3_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 7 9_1_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_5 9_56_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 7_0_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_6 7 9_3_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_0_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3 7 10_57_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_0_1_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_7 10_2_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_0_59_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_4 10_0_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_3 10 11_57_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_0_1_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 9_59_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3_2_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_3 6 7_3_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 11_57_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_7 10_2_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3 7 10_56_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_4 7_0_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_0_59_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10 12_2_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 7 10_59_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_10 12_2_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_1_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 6 9_3_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_6 7 9_3_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_1_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_59_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_59_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10 12_2_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 7 10_59_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 9_59_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 9_56_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 9_3_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 7_0_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_5 9_56_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_0_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_2_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_7 10_2_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_4 6 10_3_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3_3_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_2_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 11_57_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 9_3_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 6 10_59_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 10_56_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_10 12_2_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_0_1_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 7 9_1_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_59_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 10_59_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_5 10_56_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_7 10_1_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_7 10_59_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_9_56_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_7 10_2_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6 9_3_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 7 9_1_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 9_59_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_0_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_3 6 7_3_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 9_3_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_59_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_7 10_2_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_10_56_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3_3_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_0_1_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 9_59_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 11_57_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3 7 10_57_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_4_59_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_0_59_Y_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_0_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_10_1_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_0_59_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6 9_3_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_0_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_2_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_7 10_2_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_0_3_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_6 9_3_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_5 9 11_56_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_0_3_U_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_3 9_56_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_3 7 10_57_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 6 9_3_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_4 7_0_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_0_59_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_9 12_59_U_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_10_56_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 6 10_59_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_6 7 9_1_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_0_1_Y_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_0_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_9 12_2_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_3 6 7_3_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3 7 10_56_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 10_59_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_0_59_Y_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_6_0_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_9_56_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3_2_Y_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_7_2_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_2_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 7 10_59_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_0_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_5 10_56_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\14_3_2_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_2_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\15_0_2_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\13_5 6 7 10_57_Y_005.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_6 7 9_1_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_10_1_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_0_1_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_6_59_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_5 9 11_56_U_006.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 9_59_Y_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_0_1_U_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\1_6 9_2_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10 12_1_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 10_57_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_10 11_57_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_10_59_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 7 10_59_U_004.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\8_12_2_Y_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 9_59_Y_008.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\4_3 6 9_0_U_003.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\15_0_2_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_7 9_59_U_002.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_3_Y_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\9_3 6 9_3_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\10_4 6 10_3_Y_001.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\12_3 10_56_U_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\11_3 7 10_59_Y_007.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\7_3 6 7_3_U_010.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\0_0_2_U_000.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\5_7 9_59_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\2_10_3_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\3_3 7 10_0_U_009.png
+D:\Data_Label\Y1_data_annonation\biaozhu_data\images\6_4 5 7 11_57_U_002.png
