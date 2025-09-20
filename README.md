@@ -21,6 +21,7 @@ Detection.yaml中修改成自己的标签，并设置每个标注框的颜色。
 <img width="992" height="170" alt="image" src="https://github.com/user-attachments/assets/aface632-c1e5-4df1-8778-d5f1f270ed7d" />
 
 ## 另外自用的一些脚本工具
-①
+0是针对有些背景样本需要制作空的txt标签文件
+1是将图像数据和标签数据生成train.txt和val.txt的数据。
 
 
