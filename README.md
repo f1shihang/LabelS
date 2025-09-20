@@ -12,6 +12,7 @@ Detection.yaml中修改成自己的标签，并设置每个标注框的颜色。
 <img width="1218" height="823" alt="image" src="https://github.com/user-attachments/assets/57cbcabc-9cbc-4c98-8048-61d53959c471" />
 
 ②开始绘制标注框
+
 <img width="870" height="726" alt="image" src="https://github.com/user-attachments/assets/4e046370-50b4-4872-940f-9c318d697f83" />
 
 ③保存标注结果
